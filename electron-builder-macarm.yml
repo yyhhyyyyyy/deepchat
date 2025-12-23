@@ -81,6 +81,6 @@ mac:
 npmRebuild: true
 publish:
   provider: github
-  owner: ThinkInAIXYZ
+  owner: yyhhyyyyyy
   repo: deepchat
   channel: arm64

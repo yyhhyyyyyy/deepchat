@@ -24,7 +24,7 @@ interface VersionInfo {
   downloadUrl?: string
 }
 
-const GITHUB_OWNER = 'ThinkInAIXYZ'
+const GITHUB_OWNER = 'yyhhyyyyyy'
 const GITHUB_REPO = 'deepchat'
 const GITHUB_RELEASE_BASE_URL = `https://github.com/${GITHUB_OWNER}/${GITHUB_REPO}/releases`
 
